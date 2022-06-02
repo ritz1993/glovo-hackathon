@@ -1,4 +1,5 @@
-# Integrating TypeScript with GraphQL using Type-Graphl, a modern framework for building GraphQL APIs in Node.js
+# Glovo Hackathon:  Empowering feature store with GraphQL
+
 
 Tutorial: https://blog.logrocket.com/integrating-typescript-graphql/
 
