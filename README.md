@@ -1,4 +1,4 @@
-# Glovo Hackathon:  Empowering feature store with GraphQL
+# Glovo Hackathon:  Empowering the Feature Store with GraphQL
 
 
 Tutorial: https://blog.logrocket.com/integrating-typescript-graphql/
