@@ -19,3 +19,5 @@ Tutorial: https://blog.logrocket.com/integrating-typescript-graphql/
 - Apollo-server-express, `apollo-server-express`, A library for quickly bootstrapping graphql servers with Apollo and Express
 
 For a note on other dependencies, please have a look at the `package.json` file.
+
+<img width="1786" alt="image" src="https://user-images.githubusercontent.com/96004260/171610365-a62c2eb4-3eda-41a3-8201-02382490d784.png">
